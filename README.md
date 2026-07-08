@@ -66,7 +66,6 @@ Current Progress
 - PSpice
 - STM CUBE IDE
 - ARDUINO IDE
-- 
 
 
 
